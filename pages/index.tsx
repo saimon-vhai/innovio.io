@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Vercel Trick By <a href="https://dev-innovio.pantheonsite.io">Alcash Zone</a>
+          Welcome to Vercel Trick By <a href="https://dev-innovio.pantheonsite.io">innovio</a>
         </h1>
 
         <p className={styles.description}>
@@ -23,26 +23,26 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.grid}>
-          <a href="https://alcashzone.com/category/adsterra-earning/" className={styles.card}>
+          <a href="https://dev-innovio.pantheonsite.io/category/animal/" className={styles.card}>
             <h2>Documentation &rarr;</h2>
-            <p>Here you can find how to earn money from Adsterra .</p>
+            <p>Here you can find world all animal news .</p>
           </a>
 
-          <a href="https://alcashzone.com/category/adsense-approval/" className={styles.card}>
-            <h2>Master In AdSense Approval &rarr;</h2>
-            <p>Here you can find the of how you become master in AdSense approval!</p>
+          <a href="https://dev-innovio.pantheonsite.io/category/earn-money/" className={styles.card}>
+            <h2>Master in earn money &rarr;</h2>
+            <p>Here you can find the of how you become master in earn money!</p>
           </a>
 
           <a
-            href="https://alcashzone.com/category/blogging/"
+            href="https://dev-innovio.pantheonsite.io/category/animal/"
             className={styles.card}
           >
             <h2>Blogging &rarr;</h2>
-            <p>Here you can find the source to become master in blogging</p>
+            <p>Here you can find the source of world most rarest animal information</p>
           </a>
 
           <a
-            href="https://newstick.us"
+            href="https://dev-innovio.pantheonsite.io/"
             className={styles.card}
           >
             <h2>News &rarr;</h2>
